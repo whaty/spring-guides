@@ -25,7 +25,7 @@
 * 跳过基本教程，通过以下方式获取源码：
   * 通过以下地址下载并解压本教程源代码，或者用Git克隆一份代码到本地：
 
-    `git clone https://github.com/whaty/spring-guides/gs-scheduling-tasks.git`
+    `git clone https://github.com/whaty/spring-guides.git`
 
   * 将导出的项目导入到开发工具即可
 
