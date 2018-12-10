@@ -46,7 +46,7 @@ http://localhost:8080/greeting?name=User
 * 跳过基本教程，通过以下方式获取源码：
   * 通过以下地址下载并解压本教程源代码，或者用Git克隆一份代码到本地：
 
-    `git clone https://github.com/spring-guides/gs-rest-service.git`
+    `git clone https://github.com/whaty/spring-guides/gs-rest-service.git`
 
   * 将导出的项目导入到开发工具即可
 
@@ -239,7 +239,7 @@ public class Application {
 
 > 您可以使用Gradle或Maven从命令行运行应用程序。或者您可以构建一个包含所有必需依赖项、类和资源的可执行JAR文件，并运行它。这使得在整个开发生命周期中、在不同的环境中，以应用程序的形式发布、版本化和部署服务变得很容易。
 
-您可以使用./mvnw spring-boot:run运行应用程序。或者您可以使用./mvnw clean package构建JAR文件。然后您可以运行JAR文件:
+您可以使用 spring-boot:run 运行应用程序。或者您可以使用 clean package 构建JAR文件。然后您可以运行JAR文件:
 
 ```text
 java -jar target/gs-rest-service-0.1.0.jar
