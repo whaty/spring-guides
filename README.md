@@ -10,4 +10,6 @@
   * 官方英文原文链接：[Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 * [基于spring构建调度服务](https://github.com/whaty/spring-guides/tree/master/gs-scheduling-tasks)
   * 官方英文原文链接：[Scheduling Tasks](https://spring.io/guides/gs/scheduling-tasks/)
+* [基于spring构建消费web RESTful 的服务](https://github.com/whaty/spring-guides/tree/master/gs-consuming-rest)
+  * 官方英文原文链接：[Consuming a RESTful Web Service](https://spring.io/guides/gs/consuming-rest/)
 
