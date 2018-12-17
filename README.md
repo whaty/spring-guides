@@ -12,4 +12,6 @@
   * 官方英文原文链接：[Scheduling Tasks](https://spring.io/guides/gs/scheduling-tasks/)
 * [基于spring构建消费web RESTful 的服务](spring-guides-zhong-wen-jiao-cheng/gs-consuming-rest.md)
   * 官方英文原文链接：[Consuming a RESTful Web Service](https://spring.io/guides/gs/consuming-rest/)
+* [使用 maven 构建 java 项目](spring-guides-zhong-wen-jiao-cheng/gs-maven.md)
+  * 官方英文原文链接：[Building Java Projects with Maven](https://spring.io/guides/gs/maven/)
 

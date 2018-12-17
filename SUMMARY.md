@@ -5,4 +5,5 @@
   * [基于spring构建RESTful Web服务](spring-guides-zhong-wen-jiao-cheng/gs-rest-service.md)
   * [基于spring构建调度服务](spring-guides-zhong-wen-jiao-cheng/gs-scheduling-tasks.md)
   * [基于spring构建消费web RESTful 的服务](spring-guides-zhong-wen-jiao-cheng/gs-consuming-rest.md)
+  * [使用 maven 构建 java 项目](spring-guides-zhong-wen-jiao-cheng/gs-maven.md)
 
