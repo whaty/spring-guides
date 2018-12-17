@@ -146,12 +146,12 @@ OS name: "linux", version: "4.15.0-36-generic", arch: "amd64", family: "unix"
 
 除了可选的 `<packaging>` 元素，这是最简单的构建Java项目所需的pom.xml文件。它包括项目配置的以下细节:
 
-* `<modelVersion>`。POM 模块版本。
-* `<groupId>`。项目所属组或者所属组织机构。通常采用反过来的网址域名，比如：com.google。
-* `<artifactId>`。项目打包之后的名字。
-* `<version>`。项目构建版本。
-* `<packaging>`。项目打包成什么类型的包，默认 "jar" 打包成 JAR 包。也可以使用 "war" 打包成 WAR 包。
-* 该插件内置依赖解决方案，可以根据 spring boot 版本 自动选择依赖 jar 的版本。你可以覆盖默认提供的版本，但是默认情况下，系统自动选择依赖版本。
+* `<modelVersion>` - POM 模块版本。
+* `<groupId>` - 项目所属组或者所属组织机构。通常采用反过来的网址域名，比如：com.google。
+* `<artifactId>` - 项目打包之后的名字。
+* `<version>` - 项目构建版本。
+* `<packaging>` - 项目打包成什么类型的包，默认 "jar" 打包成 JAR 包。也可以使用 "war" 打包成 WAR 包。
+
 
 至此，您已经定义了一个最小但功能强大的Maven项目。
 
@@ -275,7 +275,7 @@ Maven使用一个名为“surefire”的插件来运行单元测试。这个插�
 
 或者只使用 `mvn install` 步骤，就像我们前面已经展示的那样(有一个生命周期定义，其中“test”作为“install”中的一个阶段包含在其中)。
 
-这是完整的pom。xml文件:
+这是完整的pom.xml文件:
 
 ```text
 <?xml version="1.0" encoding="UTF-8"?>
