@@ -14,4 +14,6 @@
   * 官方英文原文链接：[Consuming a RESTful Web Service](https://spring.io/guides/gs/consuming-rest/)
 * [使用 maven 构建 java 项目](spring-guides-zhong-wen-jiao-cheng/gs-maven.md)
   * 官方英文原文链接：[Building Java Projects with Maven](https://spring.io/guides/gs/maven/)
+* [基于 Spring 使用 JDBC 访问关系型数据](spring-guides-zhong-wen-jiao-cheng/gs-relational-data-access.md)
+  * 官方英文原文链接：[Accessing Relational Data using JDBC with Spring](https://spring.io/guides/gs/relational-data-access/)
 
