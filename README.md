@@ -18,4 +18,6 @@
   * 官方英文原文链接：[Accessing Relational Data using JDBC with Spring](https://spring.io/guides/gs/relational-data-access/)
 * [基于 Spring 实现文件上传](spring-guides-zhong-wen-jiao-cheng/gs-uploading-files.md)
   * 官方英文原文链接：[Uploading Files](https://spring.io/guides/gs/uploading-files/)
+* [使用 LDAP 认证用户](spring-guides-zhong-wen-jiao-cheng/gs-authenticating-ldap.md)
+  * 官方英文原文链接：[Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
 
