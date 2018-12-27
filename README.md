@@ -20,4 +20,6 @@
   * 官方英文原文链接：[Uploading Files](https://spring.io/guides/gs/uploading-files/)
 * [使用 LDAP 认证用户](spring-guides-zhong-wen-jiao-cheng/gs-authenticating-ldap.md)
   * 官方英文原文链接：[Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
+* [使用 Redis 发布和订阅消息](spring-guides-zhong-wen-jiao-cheng/gs-messaging-redis.md)
+  * 官方英文原文链接：[Messaging with Redis](https://spring.io/guides/gs/messaging-redis/)
 

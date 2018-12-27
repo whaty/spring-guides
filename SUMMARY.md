@@ -9,4 +9,5 @@
   * [基于 Spring 使用 JDBC 访问关系型数据](spring-guides-zhong-wen-jiao-cheng/gs-relational-data-access.md)
   * [基于 Spring 实现文件上传](spring-guides-zhong-wen-jiao-cheng/gs-uploading-files.md)
   * [使用 LDAP 认证用户](spring-guides-zhong-wen-jiao-cheng/gs-authenticating-ldap.md)
+  * [使用 Redis 发布和订阅消息](spring-guides-zhong-wen-jiao-cheng/gs-messaging-redis.md)
 
