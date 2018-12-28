@@ -22,4 +22,6 @@
   * 官方英文原文链接：[Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
 * [使用 Redis 发布和订阅消息](spring-guides-zhong-wen-jiao-cheng/gs-messaging-redis.md)
   * 官方英文原文链接：[Messaging with Redis](https://spring.io/guides/gs/messaging-redis/)
+* [使用 RabbitMQ 发布和订阅消息](spring-guides-zhong-wen-jiao-cheng/gs-messaging-rabbitmq.md)
+  * 官方英文原文链接：[Messaging with RabbitMQ](https://spring.io/guides/gs/messaging-rabbitmq/)
 
