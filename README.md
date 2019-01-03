@@ -24,4 +24,6 @@
   * 官方英文原文链接：[Messaging with Redis](https://spring.io/guides/gs/messaging-redis/)
 * [使用 RabbitMQ 发布和订阅消息](spring-guides-zhong-wen-jiao-cheng/gs-messaging-rabbitmq.md)
   * 官方英文原文链接：[Messaging with RabbitMQ](https://spring.io/guides/gs/messaging-rabbitmq/)
+* [使用 Neo4j 访问数据](spring-guides-zhong-wen-jiao-cheng/gs-accessing-data-neo4j.md)
+  * 官方英文原文链接：[Accessing Data with Neo4j](https://spring.io/guides/gs/accessing-data-neo4j/)
 
